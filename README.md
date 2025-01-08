@@ -1,2 +1,2 @@
 Google Colab link to project: 
-https://colab.research.google.com/drive/19mR78DDYyDkup6ysvy4dXDbYiePf5qP8?usp=sharing
+[google colab](https://colab.research.google.com/drive/1IJfp-BO-IpBkS1e9h5E2NWUg5I7ZUZcV?usp=sharing)
